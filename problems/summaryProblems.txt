@@ -1,0 +1,15 @@
+
+02.06 Test equality of two values vs,double sided, unkown variance, assumed equal, t-distribution
+02.07 Test equality values, one-sided, unknown variance (assumed equal), t-distribution
+02.08 Test of normality of data, normality plot, test for equality t-test
+02.09 test difference in sample means, standard error, double vs one sided, confidence interval
+02.10 test difference in sample means, standard error, double vs one sided, confidence interval
+
+02.20 Test hypothesis greater than value, unknown variance
+02.32 
+
+Ex3.01 ANOVA, one factor, F-distribution
+3.01 P-value,ANOVA F-distribution, Single factor test
+Ex 03.04 Bartletts test, equal variances, normality assumption
+EX 03.07 Tukeys test, Pairwise differences in mean, 
+ 
